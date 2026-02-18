@@ -19,7 +19,7 @@ _By Tove, Grace, and Miles for UVicHacks × Inspire Hackathon_
 
 ### Figma Design:
 
-**https://www.figma.com/make/Q624d9en4gGKReWEc6orrr/Community-Meal-Planning-Website?t=MC7L4tn4UlMeYDQt-1**
+**https://ai-parent-44729275.figma.site**
 
 ### Powerpoint Presentation:
 
