@@ -7,9 +7,9 @@
 |_|  \___/ \___/ \__,_||____/|_| |_|\__,_|_|  \___|
 
 ```
-_By Tove, Grace, and Miles for UVicHacks × Inspire Hackathon_
+_By Tove Jensen (Figma Design), Grace (PowerPoint Presentation), and Miles (Frontend & Backend) for UVicHacks × Inspire Hackathon_
 
-## Live Demo
+## Live Demo:
 
 **https://foodshare-web-287947527018.us-central1.run.app**
 
